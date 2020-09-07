@@ -13,6 +13,7 @@
 #### 📓 Material Notes app for Android -> [Here](https://github.com/argraur/Notes)
 #### 🎨 The PixelROM Project -> [Here](http://sourceforge.net/projects/pixel3rom)
 
+## Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=argraur&show_icons=true&theme=dracula)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argraur&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
