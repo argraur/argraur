@@ -3,6 +3,7 @@
 
 **I am an amateur Android Engineer and Kotlin Android Developer!**
 
+Also I am **XDA Recognized Developer**
 
 - 🔭 I’m currently working on **the PixelROM Project** and maintaining **[@AOSiP](https://github.com/AOSiP)**
 - 🌱 I’m currently learning **Kotlin** and exploring **Android APIs**
@@ -10,8 +11,11 @@
 - 📫 How to reach me: *@argraur* on Telegram
 
 ## Here are some of my cool projects!
-#### 📓 Material Notes app for Android -> [Here](https://github.com/argraur/Notes)
 #### 🎨 The PixelROM Project -> [Here](http://sourceforge.net/projects/pixel3rom)
+#### 📓 Material Notes app for Android -> [Here](https://github.com/argraur/Notes)
+#### 🏮 hentaiOS Project -> [Here](https://github.com/hentaiOS)
+#### 🦉 AOSiP for Mi 8 -> [Here](https://aosip.dev/dipper)
+#### ⚡ Railgun Discord bot -> [Java](https://github.com/argraur/RailgunBot) | [Kotlin](https://github.com/argraur/RailgunKT)
 
 ## Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=argraur&show_icons=true&theme=dracula)
