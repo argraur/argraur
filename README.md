@@ -5,7 +5,7 @@
 
 Also I am **XDA Recognized Developer**
 
-- 🔭 I’m currently working on **the PixelROM Project** and maintaining **[@AOSiP](https://github.com/AOSiP)**
+- 🔭 I’m currently a Computer Science student at Saint-Petersburg State Polytechnic University
 - 🌱 I’m currently learning **Kotlin** and exploring **Android APIs**
 - 💬 Ask me about **Android**
 - 📫 How to reach me: *@argraur* on Telegram
