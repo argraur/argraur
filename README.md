@@ -13,8 +13,9 @@ Also I am **XDA Recognized Developer**
 - 📫 How to reach me: *@argraur* on Telegram
 
 ## Here are some of my cool projects!
+### ❗ Polyhoot!, a open-source Kahoot! clone (Kotlin) -> [Here](https://github.com/polyhoot) [Android, Server]
 #### 🎨 The PixelROM Project -> [Here](http://sourceforge.net/projects/pixel3rom)
-#### 📓 Material Notes app for Android -> [Here](https://github.com/argraur/Notes)
+#### 📓 Material Notes app for Android (Kotlin) -> [Here](https://github.com/argraur/Notes)
 #### 🏮 hentaiOS Project -> [Here](https://github.com/hentaiOS)
 #### 🦉 AOSiP for Mi 8 -> [Here](https://aosip.dev/dipper)
 #### ⚡ Railgun Discord bot -> [Java](https://github.com/argraur/RailgunBot) | [Kotlin](https://github.com/argraur/RailgunKT)
