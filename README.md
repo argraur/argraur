@@ -1,9 +1,6 @@
 ## Hey there 👋, I'm Arseniy!
 
-
-**Looking for summer internship in Saint-Petersburg- or Moscow-based companies**
-
-**I am an amateur Android Engineer and Kotlin Android Developer!**
+**Remotely working as an AOSP Developer at YADRO**
 
 Also I am **XDA Recognized Developer**
 
