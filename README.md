@@ -1,11 +1,8 @@
 ## Hey there 👋, I'm Arseniy!
 
-**Remotely working as an AOSP Developer at YADRO**
-
-Also I am **XDA Recognized Developer**
-
-- 🔭 I’m currently a Computer Science student at Saint-Petersburg State Polytechnic University
-- 🌱 I’m currently learning **Kotlin** and exploring **Android APIs**
+- 🏢 Working as an AOSP Developer at YADRO
+- 🔭 Computer Science student at Saint-Petersburg State Polytechnic University
+- 🌱 Learning **Kotlin** and exploring **Android APIs**
 - 💬 Ask me about **Android**
 - 📫 How to reach me: *@argraur* on Telegram
 
